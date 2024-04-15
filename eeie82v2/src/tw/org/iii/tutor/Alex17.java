@@ -13,16 +13,22 @@ public class Alex17 {
 
 //		b1.speed = 123;
 //		System.out.println(b1.speed);    // 123.0
-		b1.upSpeed();
-		b1.upSpeed();
-		b1.upSpeed();
-		b1.upSpeed();
-		b1.downSpeed();
-		b1.upSpeed();
-		b1.upSpeed();
-		b1.upSpeed();
+//		b1.upSpeed();
+//		b1.upSpeed();
+//		b1.upSpeed();
+//		b1.upSpeed();
+//		b1.downSpeed();
+//		b1.upSpeed();
+//		b1.upSpeed();
+//		b1.upSpeed();
 		
 		System.out.println(b1.getSpeed());
+		
+//		for (int i = 0 ; 0 <= b1.getSpeed() <= 11 ; i++)
+//		{
+//			System.out.println(b1.upSpeed());
+//		}
+	
 	}
 
 }
