@@ -34,4 +34,9 @@ public class Bike /*extends Object*/ {    /*類別*/
 	{
 		return speed;    //return
 	}
+	
+	public String toString()
+	{
+		return String.format("Speed if %f", speed);
+	}
 }
